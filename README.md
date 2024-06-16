@@ -13,9 +13,13 @@ The Snake game is a classic arcade game in which the player controls a snake tha
 - Random generation of food on the screen
 - Increasing difficulty as the snake grows longer
 
+## Demo
+
+Check out the live demo of the project [here](https://preeminent-truffle-7e7219.netlify.app/).
+
 ## Installation
 
-1. Make sure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
+1. Make sure you have Python installed. You can download it from [Python's official website](https://www.python.org/downloads/).
 2. Install the Pygame library by running the following command:
     ```bash
     pip install pygame
@@ -41,13 +45,17 @@ The Snake game is a classic arcade game in which the player controls a snake tha
 
 ## Screenshots
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](![image](https://github.com/Varda003/Snake-Pursuit/assets/136989588/7195faec-1c0d-42e3-8b08-d1dad51f2d79)
+)
 
 ## Credits
 
-- This game was created by [Your Name] as a personal project.
-- The Snake icon used in the game was created by [Author Name] and obtained from [link].
+- This game was created by Varda as a personal project.
+- The Snake icon used in the game was created by Varda Hanwant.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+    
+
