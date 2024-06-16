@@ -2,6 +2,10 @@
 
 This is a classic Snake game implemented in Python using the Pygame library.
 
+## Demo
+
+Check out the live demo of the project [here](https://preeminent-truffle-7e7219.netlify.app/).
+
 ## Description
 
 The Snake game is a classic arcade game in which the player controls a snake that moves around the screen, eating food (represented by dots). As the snake consumes food, it grows longer. The game ends when the snake collides with the walls of the screen or with its own body.
@@ -13,9 +17,6 @@ The Snake game is a classic arcade game in which the player controls a snake tha
 - Random generation of food on the screen
 - Increasing difficulty as the snake grows longer
 
-## Demo
-
-Check out the live demo of the project [here](https://preeminent-truffle-7e7219.netlify.app/).
 
 ## Installation
 
